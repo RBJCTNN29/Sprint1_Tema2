@@ -1,4 +1,4 @@
 <?php 
-    define("NOM", "Rory", true);
-    echo "<b>NOM</b>";
+    define("NOM", "Rory");
+    echo NOM;
 ?>
